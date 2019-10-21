@@ -1,0 +1,38 @@
+body{
+    background-color: #2f4050;
+}
+.navbar-nav li{
+    /*font-weight: bold;*/
+    /*font-family: "Font Awesome 5 Brands";*/
+    font-size: 1.2em;
+}
+
+.col-sm-10{
+    background-color: #f7f7f7;
+}
+#side_Menu a{
+    color: #9fb1c2;
+}
+#side_Menu li:hover{
+    color: #fff;
+    background-color: #1ab394;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#side_Menu .active a{
+     color: white;
+     background-color: #27AAE1;
+     font-weight: bold;
+ }
+#footer{
+    padding: 1px;
+    border-top: 1px solid black;
+    color: #EEEEEE;
+    background-color: #211f22;
+    text-align: center;
+}
+
+.material-icons, .icon-text{
+    vertical-align: middle;
+}
